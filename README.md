@@ -56,7 +56,7 @@ Con-ik is a real-time chatting website that allows users to connect and link wit
 Clone the project
 
 ```bash
-  git clone https://github.com/Swapn2003/Real-Time-Chat
+  https://github.com/Manish1660/Real-Time-Chat.git
 ```
 
 Go to the project directory
